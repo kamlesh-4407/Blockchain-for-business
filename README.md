@@ -114,6 +114,8 @@ return name;
 ## OUTPUT
 ## Deploying Transaction in Remix
 
+<img width="1233" height="656" alt="image" src="https://github.com/user-attachments/assets/87d07094-f920-421e-9408-4e6c314c85b0" />
+
 ## Contract Creation Output in Command Prompt
 <img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
 
